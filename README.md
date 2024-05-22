@@ -16,6 +16,14 @@ The project is heavily inspired by Sven-Bo's python morning mailer bot (https://
 
 In order to send the mail, PythonAnywhere scheduled tasks perfectly do the job (https://www.pythonanywhere.com/) </br>
 
+Don't forget to create a .env file with the following information : </br>
+
+EMAIL_SENDER=YourGmailAdress</br>
+EMAIL_PASSWORD=YourGmailPassword</br>
+EMAIL_RECEIVER=YourEmailAdress</br>
+NEWS_API_ORG_KEY=YourNewsAPIKey</br>
+
+
 Here is an example of the result (22/05/24) : 
 <html>
    <body style="margin: 0; padding: 0;">
