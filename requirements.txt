@@ -1,0 +1,7 @@
+BeautifulSoup
+matplotlib
+pandas
+python-dotenv
+requests
+yagmail
+yfinance
